@@ -1,7 +1,7 @@
 # Multilayer Networks Data of Movies: (Avengers 2012 & Star Wars IV)
 
 
-Here is the data corresponding to the Complex Networks 2018 paper "Multilayer Networks of Movie Scripts" by Youssef
+Here is the data corresponding to the Complex Networks 2018 paper *"Multilayer Networks of Movie Scripts"* by Youssef
 Mourchid, Benjamin Renoust, Hocine Cherifi, and Mohammed El Hassouni.
 
 The data represents movie scripts under the form of temporal multilayer networks extracted from aligning scripts and 
