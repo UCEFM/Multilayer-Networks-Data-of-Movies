@@ -1,4 +1,4 @@
-# Multilayer Networks Data of Movies: (Avengers 2012 & Star Wars IV)
+# Multilayer Networks Data of Movies: (The Avengers 2012 & Star Wars IV)
 
 
 Here is the data corresponding to the Complex Networks 2018 paper *"Multilayer Networks of Movie Scripts"* by Youssef
